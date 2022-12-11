@@ -1,0 +1,57 @@
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\bin\Debug\net5.0\project.BLL.deps.json
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\bin\Debug\net5.0\project.BLL.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\bin\Debug\net5.0\ref\project.BLL.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\bin\Debug\net5.0\project.BLL.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\bin\Debug\net5.0\project.DAL.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\bin\Debug\net5.0\project.DTO.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\bin\Debug\net5.0\project.Entity.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\bin\Debug\net5.0\project.DAL.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\bin\Debug\net5.0\project.DTO.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\bin\Debug\net5.0\project.Entity.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.csproj.CopyComplete
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\obj\Debug\net5.0\ref\project.BLL.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.BLL.deps.json
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.BLL.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.BLL.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.DAL.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.DTO.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.Entity.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.DAL.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.DTO.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.Entity.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.csproj.CopyComplete
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\refint\project.BLL.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\ref\project.BLL.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.BLL.deps.json
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.BLL.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.BLL.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.DAL.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.DTO.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.Entity.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.DAL.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.DTO.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\bin\Debug\net5.0\project.Entity.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.csproj.AssemblyReference.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.AssemblyInfoInputs.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.AssemblyInfo.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.csproj.CoreCompileInputs.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.csproj.CopyComplete
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\refint\project.BLL.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\project.BLL.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\project.BLL\obj\Debug\net5.0\ref\project.BLL.dll

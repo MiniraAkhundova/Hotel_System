@@ -1,0 +1,64 @@
+﻿@model List<project.DTO.GuestsDTOs.GuestToListDTO>
+@{
+    Layout = "_pagesLayout";
+    ViewData["Title"] = "Export Page";
+
+}
+<style>
+    .checkout-container div ul li {
+        font-family: system-ui !important
+    }
+    .checkout-container div ul li:nth-child(8) {
+        font-size: 24px !important;
+    }
+
+        .checkout-container div ul li:nth-child(8) span:last-child {
+            color: #c33 !important;
+        }
+        .checkout-container div ul li:nth-child(10) button {
+            position: relative;
+            display: block;
+            width: 100%;
+            font-size: 16px;
+            font-weight: 600;
+            color: #fff;
+            padding: 15px 20px;
+            background-color: #222;
+            text-transform: uppercase;
+            text-align: center;
+            border: none;
+            transition: all .25s ease;
+            outline: none;
+            text-decoration: none; 
+            font-family: system-ui;
+        }
+
+        .checkout-container div ul li:nth-child(10) a {
+            text-decoration: none;
+            color: #fff !important;
+            font-family: system-ui;
+            font-weight: 600;
+        }
+</style>
+<link rel="stylesheet" href="~/css/rooms_list_style.css" />
+
+<section class="checkout-container">
+    <div>
+        @foreach (var guest in Model)
+        {
+        <ul >
+            <li><img src="~/login_images/icons/logo_light.svg" /></li>
+            <li style=" font-family: system-ui"><span>Room</span><span>@guest.Room.RoomNumber</span></li>
+            <li style=" font-family: system-ui"><span>Id</span><span>@guest.GuestNumber</span></li>
+            <li style=" font-family: system-ui"><span>Name</span><span>@guest.GuestName</span></li>
+            <li style=" font-family: system-ui"><span>Duration</span><span>@Math.Round(guest.GuestStayTo.Subtract(guest.GuestStayFrom).TotalDays)</span></li>
+            <li style=" font-family: system-ui"><span>People</span><span>@guest.RoomMax</span></li>
+            <li style=" font-family: system-ui"><span style="font-size: 16px !important; color: #222 !important; ">Cost</span><span style="font-size: 16px !important; color: #222 !important; ">@guest.Room.RoomCost</span></li>
+            <li style=" font-family: system-ui"><span>Total</span><span>$ @Math.Round(guest.GuestStayTo.Subtract(guest.GuestStayFrom).TotalDays*guest.Room.RoomCost)</span></li>
+            <li  style=" font-family: system-ui"><span>Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our privacy policy.</span></li>
+            <li style="border-bottom:transparent;style=" font-family: system-ui""><button>@Html.ActionLink("Place Reservation", "FinishReservation", "Pages", new { guestNumber = guest.GuestNumber })</button></li>
+            <li style="border-bottom:transparent;"><img src="~/pages_images/qr-code.svg" /></li>
+        </ul>
+        }
+    </div>
+</section>

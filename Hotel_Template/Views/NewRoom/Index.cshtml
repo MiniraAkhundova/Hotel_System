@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "New Room";
+
+}
+@model project.DTO.RoomDTOs.RoomToAddDTO
+<link href="vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
+<link href="vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
+<!-- Font special for pages-->
+<link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+<!-- Vendor CSS-->
+<link href="vendor/select2/select2.min.css" rel="stylesheet" media="all">
+<link href="vendor/datepicker/daterangepicker.css" rel="stylesheet" media="all">
+
+<!-- Main CSS-->
+<link href="~/css/new_room_style.css" rel="stylesheet" media="all">
+<div class="page-wrapper bg-gra-02 p-t-130 p-b-100 font-poppins">
+    <div class="wrapper wrapper--w680">
+        <div class="card card-4">
+
+            <div class="card-body">
+                <span class="login100-form-logo">
+                    <img src="~/login_images/icons/logo_light.svg" />
+                </span>
+                <h2 class="title">Creating new room</h2>
+                <form method="post" enctype="multipart/form-data"  asp-controller="NewRoom" asp-action="CreateRoom">
+                    <div class="row row-space">
+                        <div class="col-2">
+                            <div class="input-group">
+                                <label class="label">room picture</label>
+                                <input class="input--style-4" type="file" asp-for="RoomPictureFile">
+                                <span asp-validation-for="RoomPictureFile"></span>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="row row-space">
+                        <div class="col-2">
+                            <div class="input-group">
+                                <label class="label">room name</label>
+                                <input class="input--style-4" type="text" asp-for="RoomName">
+                                <span asp-validation-for="RoomName"></span>
+                            </div>
+                        </div>
+                        <div class="col-2">
+                            <div class="input-group">
+                                <label class="label">№</label>
+                                <input class="input--style-4" type="number" asp-for="RoomNumber">
+                                <span asp-validation-for="RoomNumber"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row row-space">
+                        <div class="col-2">
+                            <div class="input-group">                            
+                                <label class="label">Floor</label>
+                                <input class="input--style-4" type="number" asp-for="FloorNumber">
+                                <span asp-validation-for="FloorNumber"></span>
+                            </div>
+                        </div>
+                        <div class="col-2">
+                            <div class="input-group">
+                                <label class="label">People</label>
+                                <input class="input--style-4" type="number" asp-for="RoomMax">
+                                <span asp-validation-for="RoomMax"></span>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="row row-space">
+                     
+                        <div class="col-2">
+                            <div class="input-group">
+                                <label class="label">Cost</label>
+                                <input class="input--style-4" type="number" asp-for="RoomCost">
+                                <span asp-validation-for="RoomCost"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="p-t-15">
+                        <button  class="btn btn--radius-2 btn--blue " type="submit">Add Room</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

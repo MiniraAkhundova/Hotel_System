@@ -1,0 +1,35 @@
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Entity\bin\Debug\net5.0\project.Entity.deps.json
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Entity\bin\Debug\net5.0\project.Entity.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Entity\bin\Debug\net5.0\ref\project.Entity.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Entity\bin\Debug\net5.0\project.Entity.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.AssemblyInfo.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Entity\obj\Debug\net5.0\ref\project.Entity.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Entity\bin\Debug\net5.0\project.Entity.deps.json
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Entity\bin\Debug\net5.0\project.Entity.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Entity\bin\Debug\net5.0\project.Entity.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.AssemblyInfo.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\refint\project.Entity.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\ref\project.Entity.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Entity\bin\Debug\net5.0\project.Entity.deps.json
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Entity\bin\Debug\net5.0\project.Entity.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Entity\bin\Debug\net5.0\project.Entity.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.csproj.AssemblyReference.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.AssemblyInfoInputs.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.AssemblyInfo.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.csproj.CoreCompileInputs.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\refint\project.Entity.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\project.Entity.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Entity\obj\Debug\net5.0\ref\project.Entity.dll

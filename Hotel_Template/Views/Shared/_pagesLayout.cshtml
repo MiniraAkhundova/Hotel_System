@@ -1,0 +1,145 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Hotel_Template</title>
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/footer_style.css" />
+    <link rel="stylesheet" href="~/css/header_style.css" />
+    <style>
+        /*Button Lo Out*/
+        .header-container-down div:last-child button {
+            width: 150px;
+            background-color: #ffe500;
+            height: 50px;
+            border-radius: 5px;
+            border: transparent;
+            outline: none;
+            color: #000;
+            font-family: system-ui;
+            font-weight: 500;
+        }
+        .footer-brand-links {
+            align-items: baseline;
+        }
+        .footer-container-up-inputs button {
+            font-family: system-ui !important;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-container-up">
+            <div><span>Reservation number:</span><a> +844 1800 33 555</a></div>
+            <div><span>448 Blue Spring Ave. Smithtown, NY 11787</span></div>
+            <div>
+                <ul>
+                    <li><i class='fab fa-facebook-f' style='font-size:14px;color:#ffe500'></i></li>
+                    <li><i class='fab fa-twitter' style='font-size:14px;color:#ffe500'></i></li>
+                    <li><i class='fab fa-instagram' style='font-size:14px;color:#ffe500'></i></li>
+                    <li><i class='fab fa-youtube' style='font-size:14px;color:#ffe500'></i></li>
+                </ul>
+            </div>
+        </div>
+        <div class="header-container-down">
+            <div>
+                <a><img src="~/login_images/icons/logo-white.svg"/></a>
+            </div>
+            <div>
+                <ul class="navigation-menu" style="margin:0px;">
+                    <li><a asp-area="" asp-controller="Pages" asp-action="RoomsList">Rooms List</a></li>
+                    <li><a asp-area="" asp-controller="Pages" asp-action="ReservedRooms">Reserved Rooms</a></li>
+                    <li><a asp-area="" asp-controller="Pages" asp-action="UnreservedRooms">Unreserved Rooms</a></li>
+                    <li><a asp-area="" asp-controller="Pages" asp-action="Blog">Blog</a></li>
+                    <li><a asp-area="" asp-controller="Pages" asp-action="ContactUs">Contact Us</a></li>
+                </ul>
+            </div>
+            <div>            
+           <button ><a style="text-decoration:none;color:#000" asp-area="" asp-controller="Login" asp-action="Index">Log Out</a></button>          
+            </div>
+        </div>
+    </header>
+
+    <div style="background-color: #0a0a0a;">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <section class="footer-container-up">
+         
+                <div><p>Sign Up For Exclusive <br> Offers From Us </p></div>
+                <div class="footer-container-up-inputs">
+                    <input type="text" placeholder="Your Name">
+                    <input type="text" placeholder="Your Name">
+                    <button >SUBSCRIBE NOW</button>
+                </div>
+          
+        </section>
+        <section class="footer-container-divider">
+            <hr />
+        </section>
+        <section class="footer-container">
+            <div class="footer-element">
+                <a >
+                    <img src="~/login_images/icons/logo-white.svg" />
+                </a>
+            </div>
+            <div class="footer-element">
+                <ul class="navigation-footer-part">              
+                    <li>QUICK LINKS</li>
+                    <li ><a  asp-controller="Pages" asp-action="RoomsList">Rooms List</a></li>
+                    <li><a  asp-controller="Pages" asp-action="ReservedRooms">Reserved Rooms</a></li>
+                    <li ><a  asp-controller="Pages" asp-action="UnreservedRooms">Unreserved Rooms</a></li>
+                </ul>
+            </div>
+            <div class="footer-element">
+                <ul>
+                    <li>ADDRESS</li>
+                    <li>100 Orchard St,</li>
+                    <li>New York, NY 10002,USA</li>
+
+                </ul>
+            </div>
+            <div class="footer-element">
+                <ul>
+                    <li>RESERVATIONS</li>
+                    <li>(+844) 1800 3355</li>
+                    <li>support@example.com </li>
+
+                </ul>
+            </div>
+            <div class="footer-element">
+                <ul>
+                    <li>FOLLOW US</li>
+                    <li>
+                        <ul  class="footer-brand-links">
+                            <li><i class='fab fa-facebook-f' style='font-size:14px;color:#ffe500'></i></li>
+                            <li><i class='fab fa-twitter' style='font-size:14px;color:#ffe500'></i></li>
+                            <li><i class='fab fa-instagram' style='font-size:14px;color:#ffe500'></i></li>
+                            <li><i class='fab fa-youtube' style='font-size:14px;color:#ffe500'></i></li>
+                        </ul>
+                    </li>
+
+
+                </ul>
+            </div>
+        </section>
+        <section class="footer-container-divider">
+            <hr />
+        </section>
+        <section class="footer-container-down">
+            <div>
+                <p>Copyright © 2021. All Rights Reserved.</p>
+            </div>
+        </section>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

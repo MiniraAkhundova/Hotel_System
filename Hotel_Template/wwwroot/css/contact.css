@@ -1,0 +1,89 @@
+﻿.upper-container div {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url("../pages_images/breadcrumb.jpg") !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+    .upper-container div ul {
+        padding: 180px 250px;
+        list-style-type: none;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+.upper-container ul li:first-child {
+    text-align: center;
+    color: #fff;
+    font-size: 60px;
+    line-height: 1;
+    margin-bottom: 20px;
+    text-shadow: 1px 0 1px rgb(0 0 0 / 50%);
+}
+
+.upper-container ul li:nth-child(2) {
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1;
+    margin-bottom: 20px;
+    text-shadow: 1px 0 1px rgb(0 0 0 / 50%);
+}
+.contact-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 180px 120px;
+}
+.contact-container-information{
+    width:350px;
+}
+    .contact-container-information div:first-child {
+        flex-direction: column;
+        margin-bottom: 50px;
+        display: flex;
+    }
+.contact-container-information div:first-child span:first-child {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #fff;
+}
+.contact-container-information div:first-child span:last-child {
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: #a3a3a3;
+}
+    .contact-container-information div:last-child ul{
+        padding:0;
+        list-style-type:none;
+    }
+    .contact-container-information div:last-child ul li {
+        color: #fff;
+        margin-bottom:20px;
+    }
+
+    .contact-container-information div:last-child ul li:first-child {
+        font-size: 14px;
+        font-weight: 700;
+        margin-bottom: 25px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        color: #fff;
+    }
+
+.contact-container-inputs div{
+    margin-bottom:25px;
+}
+
+    .contact-container-inputs div:nth-child(2) span {
+        font-size: 21px;
+        color:#fff;
+    }
+    .contact-container-inputs div:nth-child(3) span {
+       
+        color: #fff;
+    }

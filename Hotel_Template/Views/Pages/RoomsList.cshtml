@@ -1,0 +1,77 @@
+﻿@model List<project.DTO.RoomDTOs.RoomToListDTO>
+@{
+    Layout = "_pagesLayout";
+    ViewData["Title"] = "Room List Page";
+
+}
+<style>
+    /*Button*/
+    .upper-container div ul li:last-child button {
+        font-size: 13px;
+        width: 180px !important;
+        background-color: #ffe500;
+        height: 50px;
+        border-radius: 5px;
+        border: transparent;
+        outline: none;
+        font-weight: 600;
+        color: #000;
+        font-family: system-ui !important;
+        margin-top: 20px;
+    }
+    .rooms div button {
+        text-decoration: none;
+        color: #000 !important;
+        font-family: system-ui;
+        font-weight: 500;
+    }
+
+        .rooms div button a {
+            text-decoration: none;
+            color: #000 !important;
+            font-family: system-ui;
+            font-weight: 500;
+        }
+</style>
+<link rel="stylesheet" href="~/css/rooms_list_style.css" />
+<section class="upper-container">
+    <div >
+        <ul>
+            <li>Rooms List</li>
+            <li>Memories that will last forewer</li>
+            <li><button asp-controller="Pages" asp-action="ReservedRooms">VIEW RESERVED ROOMS</button></li>
+        </ul>
+    </div>
+</section>
+<section class="center-container">
+    <div>
+        <button type="button" class="btn btn-lg"><a style="text-decoration:none;color:#fff;" asp-area="" asp-controller="NewRoom" asp-action="Index">Add Room</a></button>
+    </div>
+</section>
+<section class="lower-container">
+    <div class="row ">
+        @foreach (var room in Model) {
+      
+            <div class="col-6 col-md-4 rooms" style=" margin-bottom: 80px">
+                <div><img src="~/pages_images/@room.RoomPictureFilePath" /></div>
+                <div><span>@room.RoomName</span></div>
+                <div>
+                    <ul>
+                        <li><span><i class='fas fa-arrow-alt-circle-right' style="color: #b89f80;margin-right:15px;"></i><span>№</span></span><span>@room.RoomNumber</span></li>
+                        <li><span><i class='fas fa-arrow-alt-circle-right' style="color: #b89f80; margin-right:15px;"></i><span>Floor</span></span><span>@room.Floor.FloorNumber</span></li>                      
+                        <li><span><i class='fas fa-arrow-alt-circle-right' style="color: #b89f80; margin-right: 15px;"></i><span>Max</span></span><span>@room.RoomMax People</span><li>
+
+                    </ul>
+                </div>
+                <div><span>Cost</span><span>$</span><span>@room.RoomCost</span></div>
+                <div>
+                    <button>@Html.ActionLink("Update", "Index", "RoomModification", new { roomId = @room.RoomNumber })</button>
+                    <button>@Html.ActionLink("Delete", "DeleteRoom", "Pages", new { roomId = @room.RoomNumber })</button>
+                </div>
+            </div>
+            
+        }
+
+    </div>
+</section>
+

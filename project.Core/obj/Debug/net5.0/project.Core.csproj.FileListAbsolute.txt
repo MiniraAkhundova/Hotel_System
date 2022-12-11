@@ -1,0 +1,51 @@
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\bin\Debug\net5.0\project.Core.deps.json
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\bin\Debug\net5.0\project.Core.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\bin\Debug\net5.0\ref\project.Core.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\bin\Debug\net5.0\project.Core.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\bin\Debug\net5.0\project.DTO.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\bin\Debug\net5.0\project.Entity.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\bin\Debug\net5.0\project.DTO.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\bin\Debug\net5.0\project.Entity.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.csproj.CopyComplete
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\obj\Debug\net5.0\ref\project.Core.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\bin\Debug\net5.0\project.Core.deps.json
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\bin\Debug\net5.0\project.Core.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\bin\Debug\net5.0\project.Core.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\bin\Debug\net5.0\project.DTO.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\bin\Debug\net5.0\project.Entity.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\bin\Debug\net5.0\project.DTO.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\bin\Debug\net5.0\project.Entity.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.csproj.CopyComplete
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\refint\project.Core.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\ref\project.Core.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\bin\Debug\net5.0\project.Core.deps.json
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\bin\Debug\net5.0\project.Core.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\bin\Debug\net5.0\project.Core.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\bin\Debug\net5.0\project.DTO.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\bin\Debug\net5.0\project.Entity.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\bin\Debug\net5.0\project.DTO.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\bin\Debug\net5.0\project.Entity.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.csproj.AssemblyReference.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.AssemblyInfoInputs.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.AssemblyInfo.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.csproj.CoreCompileInputs.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.csproj.CopyComplete
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\refint\project.Core.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\project.Core.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\project.Core\obj\Debug\net5.0\ref\project.Core.dll

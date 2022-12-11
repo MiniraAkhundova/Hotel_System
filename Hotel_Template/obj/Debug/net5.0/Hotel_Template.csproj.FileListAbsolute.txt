@@ -1,0 +1,222 @@
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.exe
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.deps.json
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.runtimeconfig.json
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.runtimeconfig.dev.json
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\ref\Hotel_Template.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.Views.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.Views.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Npgsql.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.BLL.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.Core.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.DAL.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.DTO.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.Entity.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.BLL.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.Core.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.DAL.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.DTO.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.Entity.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.AssemblyInfo.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\staticwebassets\Hotel_Template.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\staticwebassets\Hotel_Template.StaticWebAssets.xml
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\scopedcss\bundle\Hotel_Template.styles.css
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.TagHelpers.input.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.TagHelpers.output.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorCoreGenerate.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\NewRoom\Index.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\Blog.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\ContactUs.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\Export.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\ReservedRooms.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\RoomsList.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\UnreservedRooms.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Registration\Index.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Reservation\Index.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\RoomModification\Index.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Shared\_pagesLayout.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.Views.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.csproj.CopyComplete
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\ref\Hotel_Template.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.genruntimeconfig.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.StaticWebAssets.xml
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.exe
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.deps.json
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.runtimeconfig.json
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.runtimeconfig.dev.json
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.Views.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.Views.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Npgsql.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.BLL.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.Core.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.DAL.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.DTO.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.Entity.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.BLL.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.Core.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.DAL.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.DTO.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.Entity.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.AssemblyInfo.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\scopedcss\bundle\Hotel_Template.styles.css
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\staticwebassets\Hotel_Template.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.TagHelpers.input.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.TagHelpers.output.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorCoreGenerate.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\NewRoom\Index.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\Blog.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\ContactUs.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\Export.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\ReservedRooms.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\RoomsList.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\UnreservedRooms.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Registration\Index.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Reservation\Index.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\RoomModification\Index.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Shared\_pagesLayout.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.Views.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.csproj.CopyComplete
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\refint\Hotel_Template.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.genruntimeconfig.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\ref\Hotel_Template.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\appsettings.Development.json
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\appsettings.json
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.StaticWebAssets.xml
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.exe
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.deps.json
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.runtimeconfig.json
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.runtimeconfig.dev.json
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.Views.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Hotel_Template.Views.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\AutoMapper.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Humanizer.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Npgsql.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.BLL.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.Core.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.DAL.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.DTO.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.Entity.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.BLL.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.Core.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.DAL.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.DTO.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\bin\Debug\net5.0\project.Entity.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.csproj.AssemblyReference.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.GeneratedMSBuildEditorConfig.editorconfig
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.AssemblyInfoInputs.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.AssemblyInfo.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.csproj.CoreCompileInputs.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.MvcApplicationPartsAssemblyInfo.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorAssemblyInfo.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorAssemblyInfo.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\scopedcss\bundle\Hotel_Template.styles.css
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\staticwebassets\Hotel_Template.StaticWebAssets.Manifest.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.TagHelpers.input.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.TagHelpers.output.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorCoreGenerate.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\NewRoom\Index.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\Blog.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\ContactUs.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\Export.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\ReservedRooms.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\RoomsList.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Pages\UnreservedRooms.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Registration\Index.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Reservation\Index.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\RoomModification\Index.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Shared\_pagesLayout.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorTargetAssemblyInfo.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.RazorTargetAssemblyInfo.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.Views.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.csproj.CopyComplete
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\refint\Hotel_Template.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\Hotel_Template.genruntimeconfig.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\Hotel_Template\obj\Debug\net5.0\ref\Hotel_Template.dll

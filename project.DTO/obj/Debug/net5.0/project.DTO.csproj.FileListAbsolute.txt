@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.DTO\bin\Debug\net5.0\project.DTO.deps.json
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.DTO\bin\Debug\net5.0\project.DTO.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.DTO\bin\Debug\net5.0\ref\project.DTO.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.DTO\bin\Debug\net5.0\project.DTO.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.AssemblyInfo.cs
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.DTO\obj\Debug\net5.0\ref\project.DTO.dll
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.pdb
+C:\Users\User\Desktop\My C# course\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.DTO\bin\Debug\net5.0\project.DTO.deps.json
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.DTO\bin\Debug\net5.0\project.DTO.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.DTO\bin\Debug\net5.0\project.DTO.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.AssemblyInfo.cs
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\refint\project.DTO.dll
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.pdb
+C:\Users\User\Desktop\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\ref\project.DTO.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.DTO\bin\Debug\net5.0\project.DTO.deps.json
+D:\My C# course\Minira Akhundova\Hotel_Template\project.DTO\bin\Debug\net5.0\project.DTO.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.DTO\bin\Debug\net5.0\project.DTO.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.csproj.AssemblyReference.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.AssemblyInfoInputs.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.AssemblyInfo.cs
+D:\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.csproj.CoreCompileInputs.cache
+D:\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\refint\project.DTO.dll
+D:\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\project.DTO.pdb
+D:\My C# course\Minira Akhundova\Hotel_Template\project.DTO\obj\Debug\net5.0\ref\project.DTO.dll

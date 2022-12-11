@@ -1,0 +1,102 @@
+﻿@model List<project.DTO.RoomDTOs.RoomToListDTO>
+@{
+    Layout = "_pagesLayout";
+    ViewData["Title"] = "Contact Us Page";
+
+}
+<style>
+    .contact-container-inputs form div:first-child input {
+        background-color: #212121;
+        padding: 16px 19px;
+        width: 100%;
+        font-size: 13px;
+        border-radius: 5px;
+        border: transparent;
+        outline: none;
+        color: #fff;
+        font-size: 15px;
+    }
+
+    .contact-container-inputs form div:nth-child(2) input {
+        background-color: #212121;
+        padding: 16px 19px;
+        width: 100%;
+        font-size: 13px;
+        border-radius: 5px;
+        border: transparent;
+        outline: none;
+        color: #fff;
+        font-size: 15px;
+    }
+
+    .contact-container-inputs form div:nth-child(3) textarea {
+        background-color: #212121;
+        padding: 16px 19px;
+        width: 100%;
+        font-size: 13px;
+        border-radius: 5px;
+        border: transparent;
+        outline: none;
+        height: 200px;
+        color: #fff;
+        font-size: 15px;
+    }
+    .contact-container-inputs div:last-child button {
+        font-size: 20px;
+        padding: 11px 31px;
+        letter-spacing: 0;
+        text-transform: none;
+        background-color: #b89f80;
+        color: #fff;
+        border-radius: 5px;
+        border: transparent;
+        outline: none;
+    }
+ 
+</style>
+<link rel="stylesheet" href="~/css/contact.css" />
+<section class="upper-container">
+    <div >
+        <ul>
+            <li>Contact Us</li>
+            <li>Memories that will last forewer</li>
+
+        </ul>
+    </div>
+</section>
+<section class="contact-container">
+    <div class="contact-container-information">
+        <div>
+            <span>BEFORE CONTACTING US</span>
+            <span>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut 
+            labore et dolore magna aliqua. Non equidem invideo, miror magis posuere velit aliquet.</span>
+        </div>
+        <div>
+            <ul>
+                <li><span>CONTACT INFORMATION</span></li>
+                <li><i class='fas fa-map-marker-alt' style='font-size:13px;color:#fff;margin-right:10px;'></i><span>184 Main Collins Street West Victoria 8007</span></li>
+                <li><i class='fas fa-phone' style='font-size:13px;color:#fff;margin-right:10px;'></i><span>1800-222-222</span></li>
+                <li><i class='fas fa-envelope' style='font-size:13px;color:#fff;margin-right:10px;'></i><span>contact@versatilewptheme.com</span></li>
+                <li><i class='far fa-clock' style='font-size:13px;color:#fff;margin-right:10px;'></i><span>Everyday 9:00-17:00</span></li>
+            </ul>
+        </div>
+    </div>
+    <div class="contact-container-inputs">
+        <div><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d198791.3877631778!2d-104.89844371084075!3d38.875600724967015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2s!4v1645186444246!5m2!1sru!2s" 
+           width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></div>
+        <div><span>Get In Touch</span></div>
+        <div><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</span></div>
+        <form>
+            <div><input type="text" placeholder="Your Name" /></div>
+            <div><input type="email" placeholder="Your Email" /></div>
+            <div><textarea placeholder="Your Message"></textarea></div>
+            <div><button type="submit" onclick="message()">Submit</button></div>
+        </form>
+    </div>
+</section>
+<script>
+    function message() {
+        alert("Your message was successefully sent !");
+    }
+</script>
+

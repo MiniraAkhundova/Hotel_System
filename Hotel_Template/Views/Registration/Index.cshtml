@@ -1,0 +1,148 @@
+﻿@{
+    ViewData["Title"] = "Registration Page";
+
+}
+@model project.Entity.Entities.Administrators
+<link href="vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
+<link href="vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
+<!-- Font special for pages-->
+<link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+<!-- Vendor CSS-->
+<link href="vendor/select2/select2.min.css" rel="stylesheet" media="all">
+<link href="vendor/datepicker/daterangepicker.css" rel="stylesheet" media="all">
+
+<!-- Main CSS-->
+<link href="~/css/registration_main.css" rel="stylesheet" media="all">
+<!-- Message Box-->
+<style>
+    .alert {
+        padding: 20px;
+        background-color: #f44336;
+        color: white;
+    }
+
+    .closebtn {
+        margin-left: 15px;
+        color: white;
+        font-weight: bold;
+        float: right;
+        font-size: 22px;
+        line-height: 20px;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+
+        .closebtn:hover {
+            color: black;
+        }
+</style>
+<div class="alert">
+    <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+    <strong>Administrator does not exsist!</strong> You have to be registered!
+</div>
+<!-- Message Box-->
+<div class="page-wrapper bg-gra-02 p-t-130 p-b-100 font-poppins">
+    <div class="wrapper wrapper--w680">
+        <div class="card card-4">
+
+            <div class="card-body">
+                <span class="login100-form-logo">
+                    <img src="~/login_images/icons/logo_light.svg" />
+                </span>
+                <h2 class="title">Registration Form</h2>
+                <form method="post" asp-controller="Registration" asp-action="CreateAdmin">
+                    <div class="row row-space">
+                        <div class="col-2">
+                            <div class="input-group">
+                                <label class="label">Id</label>
+                                <input class="input--style-4" type="number" asp-for="AdminId">
+
+                            </div>
+                        </div>                    
+                    </div>
+                    <div class="row row-space">
+                        <div class="col-2">
+                            <div class="input-group">
+                                <label class="label">first name</label>
+                                <input class="input--style-4" type="text" asp-for="AdminName">
+                                <span asp-validation-for="AdminName"></span>
+                            </div>
+                        </div>
+                        <div class="col-2">
+                            <div class="input-group">
+                                <label class="label">last name</label>
+                                <input class="input--style-4" type="text" asp-for="AdminSurname">
+                                <span asp-validation-for="AdminSurname"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row row-space">
+
+                        <div class="col-2">
+                            <div class="input-group">
+                                <label class="label">Age</label>
+                                <input class="input--style-4" type="text" asp-for="UserAge">
+                                <span asp-validation-for="UserAge"></span>
+                            </div>
+                        </div>
+                        <div class="col-2">
+
+                            <div class="input-group">
+                                <label class="label">Gender</label>
+                                <div class="p-t-10">
+                                    <label class="radio-container m-r-45">
+                                        Male
+                                        <input type="radio" checked="checked" value="Male" asp-for="AdminGender">
+                                        <span class="checkmark"></span>
+                                    </label>
+                                    <label class="radio-container">
+                                        Female
+                                        <input type="radio" value="Female" asp-for="AdminGender">
+                                        <span class="checkmark"></span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row row-space">
+                        <div class="col-2">
+                            <div class="input-group">
+                                <label class="label">Birthday</label>
+                                <div class="input-group-icon">
+                                    <input style="padding:0 15px;" class="input--style-4 js-datepicker" type="datetime-local" asp-for="AdminDOB">
+                                    <i class="zmdi zmdi-calendar-note input-icon js-btn-calendar"></i>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-2">
+                            <div class="input-group">
+                                <label class="label">Email</label>
+                                <input class="input--style-4" type="email" asp-for="UserEmail">
+                                <span asp-validation-for="UserEmail"></span>
+                            </div>
+                        </div>
+                      
+
+                    </div>
+                    <div class="row row-space">
+                        <div class="col-2">
+                            <div class="input-group">
+                                <label class="label">Password</label>
+                                <input class="input--style-4" type="password" asp-for="AdminPassword">
+                                <span asp-validation-for="AdminPassword"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-t-15">
+                        <button class="btn btn--radius-2 btn--blue " type="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

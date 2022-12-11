@@ -1,0 +1,111 @@
+﻿.upper-container div {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url("../pages_images/breadcrumb.jpg") !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+    .upper-container div ul {
+        padding: 180px 250px;
+        list-style-type: none;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+.upper-container ul li:first-child {
+    text-align: center;
+    color: #fff;
+    font-size: 60px;
+    line-height: 1;
+    margin-bottom: 20px;
+    text-shadow: 1px 0 1px rgb(0 0 0 / 50%);
+}
+
+.upper-container ul li:nth-child(2) {
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1;
+    margin-bottom: 20px;
+    text-shadow: 1px 0 1px rgb(0 0 0 / 50%);
+}
+.blog-container {
+    display: flex;
+    padding: 90px 130px;
+    justify-content: space-between;
+
+}
+.blogs {
+    width: 380px;
+}
+.blogs ul {
+    list-style-type: none;
+    padding: 0;
+}
+    .blogs ul li {
+        align-items: baseline;
+        margin-bottom: 15px;
+        display: flex;
+        flex-direction: row;
+    }
+       .blogs ul li:nth-child(2) span {
+            color: #b89f80;
+        }
+    .blogs ul li:first-child img {
+        width: 350px;
+        height: 263px;
+    }
+
+        .blogs ul li:first-child img:hover {
+            filter: brightness(60%);
+            transition: 2s;
+        }
+        .blogs ul li:nth-child(4) span {
+            color: #fff;
+        }
+        .blogs ul li:nth-child(3) span {
+            font-size: 17px;
+            margin-bottom: 15px;
+            font-weight: 700 !important;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #fff !important;          
+            font-family: "Open Sans";
+        }
+    .blogs ul li:nth-child(3) span {
+        font-size: 17px;
+        letter-spacing: 1px;
+        color:#a3a3a3;
+        font-family: "Merriweather";
+    }
+        .blogs ul li:last-child span{
+            color:#b89f80;
+            margin-right:10px;
+        }
+        .blog-container-down {
+            width: 350px;
+        }
+.blog-container-down span {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #fff;
+}
+.blog-container-down div button {
+    font-size: 11px !important;
+    display: block;
+    float: left;
+    padding: 5px 10px;
+    margin-right: 7px;
+    margin-top: 7px;
+    border: 0 solid;
+    border-color: inherit;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #b89f80 !important;
+}
+

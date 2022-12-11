@@ -1,0 +1,65 @@
+﻿@model List<project.DTO.GuestsDTOs.GuestToListDTO>
+@{
+    Layout = "_pagesLayout";
+    ViewData["Title"] = "Reserved Rooms Page";
+
+}
+<style>
+    .rooms div button {
+        text-decoration:none;
+        color: #000 !important; 
+        font-family: system-ui; 
+        font-weight: 500;
+    }
+    .rooms div button a {
+        text-decoration: none;
+        color: #000 !important;
+        font-family: system-ui;
+        font-weight: 500;
+    }
+</style>
+<link rel="stylesheet" href="~/css/rooms_list_style.css" />
+<section class="upper-container">
+    <div >
+        <ul>
+            <li>Reserved Rooms</li>
+            <li>Memories that will last forewer</li>
+        </ul>
+    </div>
+</section>
+
+<section class="lower-container">
+    <div class="row ">
+        @foreach (var room in Model)
+        {
+            <div class="col-6 col-md-4 rooms" style=" margin-bottom: 80px">
+                <div><img src="~/pages_images/@room.Room.RoomPictureFilePath" /></div>
+                <div><span>@room.Room.RoomName</span></div>
+                <div>
+                    <ul>
+                        <li><span><i class='fas fa-arrow-alt-circle-right' style="color: #b89f80;margin-right:15px;"></i><span>Name</span></span><span>@room.GuestName</span></li>
+                        <li><span><i class='fas fa-arrow-alt-circle-right' style="color: #b89f80;margin-right:15px;"></i><span>ID</span></span><span>@room.GuestNumber</span></li>
+                        <li><span><i class='fas fa-arrow-alt-circle-right' style="color: #b89f80;margin-right:15px;"></i><span>№</span></span><span>@room.Room.RoomNumber</span></li>
+                        <li><span><i class='fas fa-arrow-alt-circle-right' style="color: #b89f80; margin-right:15px;"></i><span>Floor</span></span><span>@room.Room.Floor.FloorNumber</span></li>
+                        <li><span><i class='fas fa-arrow-alt-circle-right' style="color: #b89f80;margin-right:15px;"></i><span>Duration</span></span><span>@Math.Round(room.GuestStayTo.Subtract(@room.GuestStayFrom).TotalDays)</span></li>
+                        <li><span><i class='fas fa-arrow-alt-circle-right' style="color: #b89f80;margin-right:15px;"></i><span>People</span></span><span>@room.RoomMax</span></li>
+
+                    </ul>
+                </div>
+                <div><span>Cost</span><span>$ @room.Room.RoomCost</span></div>
+                <div>
+                    <button style=" background-color: #ffd800 ">@Html.ActionLink("Finish reserve", "Export", "Pages", new { guestNumber = @room.GuestNumber })</button>
+                    <button>@Html.ActionLink("Delete", "DeleteReservation", "Pages", new { guestNumber = @room.GuestNumber })</button>
+
+                </div>
+            </div>
+        }
+
+
+    </div>
+
+
+
+   
+</section>
+

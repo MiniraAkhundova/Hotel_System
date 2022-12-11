@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iHKVAtfVlnp+49yK1p+BSmT1IXW44D9GxfZjGQnAJXRnEePgSamJAsnajKUjOupQfz7V0QeVs9IKKegXdje93g==",
+  "success": true,
+  "projectFilePath": "D:\\My C# course\\Minira Akhundova\\Hotel_Template\\project.DTO\\project.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.14\\microsoft.aspnetcore.http.features.5.0.14.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
