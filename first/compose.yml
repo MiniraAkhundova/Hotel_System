@@ -1,0 +1,25 @@
+services:
+  dbservice:
+    image: mysql:latest
+    container_name: minira-mysql
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: minira
+      MYSQL_DATABASE: jobportal
+    volumes:
+      - "C:/Users/005976/Desktop/UDEMY JAVA/minira-akhundova/jobportal-data:/var/lib/mysql"
+
+
+
+#services:  --for several services
+#  dbservice:   --name of the service
+#    image: mysql:latest
+#    container_name: jobportaldb
+#    ports:   -we can write sevel(ports in myltiple case)
+#      - "3306:3306"
+#    environment:
+#      MYSQL_ROOT_PASSWORD: minira
+#      MYSQL_DATABASE: jobportal
+#    volumes: -we can write sevel
+#      - C:/Users/005976/Desktop/UDEMY JAVA/jobportal-data:/var/lib/mysql
